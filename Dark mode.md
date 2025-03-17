@@ -30,3 +30,12 @@ If you want all websites to appear in dark mode:
 2. Set **"Appearance"** to **Dark**.
 
 Now, your entire system and supported applications will use dark mode! 🌙
+
+-----------------
+
+## Enable Dark Mode in pgAdmin:
+1. Open pgAdmin.
+2. Click on "File" → "Preferences".
+3. Go to "Miscellaneous" → "Themes".
+4. Select "Dark" from the dropdown.
+5. Click Save and restart pgAdmin.
